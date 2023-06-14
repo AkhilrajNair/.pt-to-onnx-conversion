@@ -12,7 +12,7 @@ Original file is located at
 
 # Commented out IPython magic to ensure Python compatibility.
 # Install dependencies.
-# %cd YOLOv5
+%cd YOLOv5
 !pip install -r requirements.txt
 !pip install onnx
 
